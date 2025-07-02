@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+faiss-cpu
