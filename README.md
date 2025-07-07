@@ -33,8 +33,8 @@ GenKubeGuard is a Kubernetes YAML security analyzer and DevSecOps assistant that
 
 ## Project Structure
 
+```
 genkubeguard/
-
 ├── src/
 │   ├── llm_handler.py         # Handles explain, patch, and suggest logic using Ollama
 │   ├── rag_memory.py          # In-memory RAG using FAISS
@@ -54,8 +54,8 @@ genkubeguard/
 ├── docker-compose.yml
 ├── .gitignore
 └── README.md
+```
 
----
 
 ## How to Run the Application
 
