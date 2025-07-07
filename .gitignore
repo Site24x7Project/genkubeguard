@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.env
+
+# pytest cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+
+# Ollama data (if any)
+.mistral/
+.ollama/
+
+# Docker
+docker-compose.override.yml
+
+# VS Code
+.vscode/

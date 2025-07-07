@@ -2,3 +2,9 @@ fastapi
 uvicorn
 pydantic
 faiss-cpu
+strawberry-graphql
+ollama
+python-multipart
+pyyaml
+
+
